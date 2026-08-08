@@ -90,6 +90,3 @@ streamlit run app.py
 - The model does not invent exact prices when reliable data isn't available — costs are labeled as estimates.
 - If the requested budget is unrealistic for the trip, the app will flag it and suggest cost-saving alternatives rather than silently ignoring the constraint.
 
-## License
-
-Add a license of your choice (MIT is a common default for personal projects).
